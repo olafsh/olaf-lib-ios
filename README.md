@@ -1,1 +1,1 @@
-# OLAF Auth (iOS)
+# OLAF Lib (iOS)
