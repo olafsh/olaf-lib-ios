@@ -1,1 +1,1 @@
-# OLAF Lib (iOS)
+# OLAF Library for iOS
